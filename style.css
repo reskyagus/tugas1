@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#link{
+    
+}
+table:hover{
+    color: rgb(255, 0, 0);
+    background-color: rgb(1, 238, 255);
+}
+
+li:nth-of-type(2){
+    background-color: rgb(252, 17, 17)
+}
+li:nth-child(4){
+    background-color: rgb(65, 255, 7);
+}
+tr:nth-of-type(2n){
+    background-color: rgb(255, 253, 253)
+}
+table{
+    background-color: gray;
+    color: rgb(200, 255, 60);
+    background-size: cover;
+    border-color: red;
+        
+    }
+.logo {
+    background: royalblue;
+    width: 40%;
+    padding-left: 50px;
+    margin-top: 50px;
+    float: right;
+    }
+.tulisan_bergerak{
+    background-color: darkblue;
+    width: 100%;
+}
+.form{
+    background-color: rgb(255, 176, 176);
+    width: 50%;
+}
+.content{
+    background-color: green;
+    width: 50%;
+    float: left;    
+    margin-bottom: 20px;
+}
